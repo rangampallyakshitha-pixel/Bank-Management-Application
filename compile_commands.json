@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/PRANAV/OneDrive/Desktop/project/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/bankapp.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\bankapp.dir\\bankapp_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\PRANAV\\OneDrive\\Desktop\\project\\build\\bankapp_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/PRANAV/OneDrive/Desktop/project/build/bankapp_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/bankapp.dir/bankapp_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/PRANAV/OneDrive/Desktop/project/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/bankapp.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\bankapp.dir\\main.cpp.obj -c C:\\Users\\PRANAV\\OneDrive\\Desktop\\project\\main.cpp",
+  "file": "C:/Users/PRANAV/OneDrive/Desktop/project/main.cpp",
+  "output": "CMakeFiles/bankapp.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/PRANAV/OneDrive/Desktop/project/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/bankapp.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\bankapp.dir\\mainwindow.cpp.obj -c C:\\Users\\PRANAV\\OneDrive\\Desktop\\project\\mainwindow.cpp",
+  "file": "C:/Users/PRANAV/OneDrive/Desktop/project/mainwindow.cpp",
+  "output": "CMakeFiles/bankapp.dir/mainwindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/PRANAV/OneDrive/Desktop/project/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/bankapp.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\bankapp.dir\\bankaccount.cpp.obj -c C:\\Users\\PRANAV\\OneDrive\\Desktop\\project\\bankaccount.cpp",
+  "file": "C:/Users/PRANAV/OneDrive/Desktop/project/bankaccount.cpp",
+  "output": "CMakeFiles/bankapp.dir/bankaccount.cpp.obj"
+}
+]
